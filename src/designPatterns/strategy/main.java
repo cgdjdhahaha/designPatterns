@@ -7,7 +7,5 @@ public class main {
         Dog[] dogs = new Dog[]{new Dog(3), new Dog(5), new Dog(1)};
         Sorter.sort(dogs);
         System.out.println(Arrays.toString(dogs));
-
-        System.out.println("hahaha");
     }
 }
